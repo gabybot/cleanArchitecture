@@ -1,0 +1,14 @@
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\bin\Debug\net8.0\ProgramacionOrientadaAObejtos.exe
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\bin\Debug\net8.0\ProgramacionOrientadaAObejtos.deps.json
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\bin\Debug\net8.0\ProgramacionOrientadaAObejtos.runtimeconfig.json
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\bin\Debug\net8.0\ProgramacionOrientadaAObejtos.dll
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\bin\Debug\net8.0\ProgramacionOrientadaAObejtos.pdb
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.AssemblyInfoInputs.cache
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.AssemblyInfo.cs
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.csproj.CoreCompileInputs.cache
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.dll
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\refint\ProgramacionOrientadaAObejtos.dll
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.pdb
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ProgramacionOrientadaAObejtos.genruntimeconfig.cache
+C:\Users\gabit\source\repos\cleanArchitecture\ProgramacionOrientadaAObejtos\obj\Debug\net8.0\ref\ProgramacionOrientadaAObejtos.dll
